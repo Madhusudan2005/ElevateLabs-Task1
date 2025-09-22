@@ -41,5 +41,3 @@ The following data cleaning and preprocessing steps were executed sequentially t
 * Matplotlib
 * Seaborn
 * Scikit-learn
-
-This structured description clearly and professionally summarizes your entire process, fulfilling the requirements of the task.
